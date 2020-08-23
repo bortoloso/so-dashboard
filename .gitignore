@@ -1,0 +1,14 @@
+# My own infos
+info.txt
+
+# Production configs
+.env.prod
+.env.prod.db
+
+# VirtualEnv config
+app/env
+
+# Django
+app/mediafiles/*
+app/staticfiles/*
+
